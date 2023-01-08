@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jeffreyww.jiraconnect.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jeffreyww.jiraconnect.MyBundle
 
 class MyApplicationService {
 
